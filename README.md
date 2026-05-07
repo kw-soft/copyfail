@@ -53,7 +53,7 @@ A 732-byte Python script can give an unprivileged local user full root access on
 
 ```bash
 # Download
-curl -O https://github.com/kw-soft/copyfail/blob/main/copyfail.sh
+curl -O https://raw.githubusercontent.com/kw-soft/copyfail/main/copyfail.sh
 
 # Make executable
 chmod +x copyfail.sh
